@@ -13,7 +13,7 @@ Este proyecto es un generador de patrones visuales estilo ASCII, desarrollado en
 
 ---
 
-## 🖥 Requisitos
+##  Requisitos
 
 - Python 3.10 o superior  
 - Biblioteca externa: [colorama](https://pypi.org/project/colorama/)
@@ -22,6 +22,7 @@ Instalación:
 
 ```bash
 pip install colorama
+python main.py #para ejecutar
 
 
 
