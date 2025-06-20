@@ -1,6 +1,6 @@
 #  Generador de Arte ASCII en Consola
 
-Este proyecto es un generador de patrones visuales estilo ASCII, desarrollado en Python, que permite crear arte textual en la terminal utilizando caracteres especiales y colores ANSI. Fue diseñado como parte del Trabajo Práctico Integrador (TPI) de Programación Avanzada, aplicando principios de Programación Orientada a Objetos y patrones de diseño.
+Este proyecto es un generador de patrones visuales estilo ASCII, desarrollado en Python, que permite crear arte textual en la terminal utilizando caracteres especiales y colores ANSI. Aplicando principios de Programación Orientada a Objetos y patrones de diseño como strategy.
 
 ---
 
@@ -18,7 +18,7 @@ Este proyecto es un generador de patrones visuales estilo ASCII, desarrollado en
 - Python 3.10 o superior  
 - Biblioteca externa: [colorama](https://pypi.org/project/colorama/)
 
-Instalación:
+Instalación y ejecucion:
 
 ```bash
 pip install colorama
